@@ -1,0 +1,6 @@
+"x"
+"1" "A"
+"2" "I"
+"3" "freqAR"
+"4" "freqPR"
+"5" "freqAlR"
